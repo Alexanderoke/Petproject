@@ -2,3 +2,14 @@ h1{
   color:blue;
   text-align: center;
 }
+h2{
+  font-style: italic;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+  background-color: purple;
+}
+h3{
+  font-size: 250%;
+  text-align: center;
+}
